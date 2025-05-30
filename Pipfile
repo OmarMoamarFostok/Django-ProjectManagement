@@ -10,6 +10,8 @@ django-filter = "*"
 drf-yasg = "*"
 django-cors-headers = "*"
 djangorestframework-simplejwt = "*"
+pytest = "*"
+pytest-django = "*"
 
 [dev-packages]
 pytest = "*"
